@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &551664923291430729
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3970557260528872030, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1032932146, guid: 7e16ddbfd5bbe4e4e8c86ebe9fc39834, type: 3}
+    - target: {fileID: 4931526607885861454, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_Name
+      value: boton Amarillo Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -13.861847
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.383278
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6759830477215045467, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8300670375708389251, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}
+      propertyPath: palancaActivada
+      value: 
+      objectReference: {fileID: -398218126, guid: 7e16ddbfd5bbe4e4e8c86ebe9fc39834, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 81525ca7b87450f42b2fa8e98b5c6dc8, type: 3}

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1578856602973517794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.64802
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.9229405
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812494458646385643, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2436471069262276776, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: rewardNumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2811661101176872078, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_Name
+      value: huevo enemigo Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5718402585438861293, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 273449769, guid: 37fbce9effa1fc548beec15c02b04c17, type: 3}
+    - target: {fileID: 8808403990710535685, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
+      propertyPath: rewardPos
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 49e683f4d2906d24b92e01e50382cfa0, type: 3}
